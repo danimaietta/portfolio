@@ -1,13 +1,13 @@
 "use strict";
 
 let obj1 = {
-    c: 'c'
-}
+  c: "c",
+};
 
 let obj1 = {
-    c: 'c'
-}
+  c: "c",
+};
 
 let obj1 = {
-    c: 'c'
-}
+  c: "c",
+};
